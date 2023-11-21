@@ -3,7 +3,7 @@ import easygui
 
 client = OpenAI(
     base_url="https://api.openai.com/v1/",
-    api_key="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",
+    api_key="sk-xxx",
 )
 
 content = easygui.enterbox("请输入内容")
