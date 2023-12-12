@@ -29,5 +29,5 @@ python3 main.py
 
 - [x] 增加更多模型
 - [ ] 支持i18n国际化
-- [ ] 将输出的写入txt
+- [x] 将输出的写入txt
 -  [ ] 摆脱easygui依赖
