@@ -12,6 +12,8 @@ git clone git@github.com:MCheping8108/easy-gpt.git
 
 ##  📚安装 & 运行
 
+⚠需要在根目录中将`.env.template`改成`.env`并且编辑`.env`⚠
+
 ```bash
 cd easy-gpt
 pip3 install -r requirements.txt
@@ -28,6 +30,7 @@ python3 main.py
 ## 🎏未来计划
 
 - [x] 增加更多模型
+- [x] 将输出文字写入`resule.md`
+- [x] 支持环境变量
 - [ ] 支持i18n国际化
-- [x] 将输出的写入txt
 -  [ ] 摆脱easygui依赖
